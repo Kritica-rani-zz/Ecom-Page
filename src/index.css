@@ -1,0 +1,59 @@
+body {
+  background-color: #F0FFF0;
+  
+  
+}
+
+.about-right{
+  height: 250px;
+  width: 500px;
+  text-align: start;
+  font-family: system-ui;
+}
+.image-left{
+  height:250px;
+  width:250px;
+}
+.Item-all{
+  display: flex;
+  
+}
+#item-img{
+  height:200px;
+  width:200px;
+}
+.btns button{
+  margin: 5px;
+
+}
+.btns{
+  margin-top: 5px;
+}
+.header{
+  height:70px;
+  display: flex;
+  justify-content: flex-end;
+  align-items:center;
+  width:1330px;
+  background-color: #4267b2;
+  margin: 5px;
+
+
+}
+.CartIcon{
+  position: relative;
+  margin-right: 20px;
+}
+.CartIcon img{
+  height: 40px;
+  width:40px;
+  
+  
+}
+.Number{
+  position:absolute;
+  background-color: yellow;
+  border-radius: 50%;
+        padding: 4px 8px;
+  
+}
